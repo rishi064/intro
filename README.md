@@ -1,2 +1,2 @@
 # intro
-My portfolio page
+My profile page
